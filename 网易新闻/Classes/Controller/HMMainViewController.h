@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HMMainViewController.h
 //  网易新闻
 //
 //  Created by jobs on 15/8/4.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface HMMainViewController : UIViewController
 
 @end
-
